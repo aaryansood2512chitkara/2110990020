@@ -1,3 +1,4 @@
+//StringToInteger
 public class solution {
 
 	public static int convertStringToInt(String input){
