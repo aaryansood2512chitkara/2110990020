@@ -1,3 +1,4 @@
+//GeometricSum
 public class solution {
 
 	public static double findGeometricSum(int k){
