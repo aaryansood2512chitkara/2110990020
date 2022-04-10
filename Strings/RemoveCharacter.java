@@ -1,4 +1,4 @@
-
+//RemoveCharacter
 public class Solution {
 
 	public static String removeAllOccurrencesOfChar(String str, char ch) {
