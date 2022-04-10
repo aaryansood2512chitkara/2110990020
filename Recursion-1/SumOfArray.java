@@ -1,3 +1,4 @@
+//SumOfArray
 public class Solution {
 
 	public static int sum(int input[]) {
