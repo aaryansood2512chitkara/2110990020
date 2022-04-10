@@ -1,3 +1,4 @@
+//StairCase.java
 public class Solution {
 
 	public static long staircase(int n) {
