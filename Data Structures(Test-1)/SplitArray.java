@@ -1,4 +1,4 @@
-
+//SplitArray
 public class solution {
 
 	public static boolean splitArray(int input[]) {
