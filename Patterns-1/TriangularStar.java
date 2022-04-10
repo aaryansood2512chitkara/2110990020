@@ -1,3 +1,4 @@
+//TriangularStar
 import java.util.Scanner;
 public class Solution {
 
