@@ -1,4 +1,4 @@
-
+//BinarySearch
 public class Solution { 
 
     public static int binarySearch(int[] arr, int x) {
