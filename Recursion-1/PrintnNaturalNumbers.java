@@ -1,3 +1,4 @@
+//PrintnNaturalNumbers
 public class Solution {
 
 	public static void print(int n){
