@@ -1,4 +1,4 @@
-#FIND_DUPLICATE
+#FIND_UNIQUE
 public class Solution{  
 
     public static int findUnique(int[] arr){
