@@ -1,3 +1,4 @@
+//MinStepsToOne_DP
 public class Solution {
 
 	public static int countMinStepsToOne(int n) {
