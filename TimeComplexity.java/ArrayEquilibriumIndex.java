@@ -1,3 +1,4 @@
+//ArrayEquilibriumIndex
 public class Solution {
 
 	public static int arrayEquilibriumIndex(int[] arr){  
