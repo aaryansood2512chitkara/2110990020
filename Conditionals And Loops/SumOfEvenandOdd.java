@@ -1,4 +1,4 @@
-//SumOfEvenandOdd
+//SumOfEvenandOdds
 import java.util.Scanner;
 public class Main {
 	
