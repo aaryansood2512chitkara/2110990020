@@ -1,3 +1,4 @@
+//DeleteEveryNnodes
 public class Solution {
 
     public static LinkedListNode<Integer> skipMdeleteN(LinkedListNode<Integer> head, int M, int N) {
