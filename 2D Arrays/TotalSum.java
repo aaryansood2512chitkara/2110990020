@@ -1,4 +1,4 @@
-#TOTALSUM
+//TOTALSUM
 
 import java.util.Scanner;
 import java.util.Arrays;
