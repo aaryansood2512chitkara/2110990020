@@ -1,3 +1,4 @@
+//StairCase
 public class staircase {
 	
 	public static int staircase(int input)
