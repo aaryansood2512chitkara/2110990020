@@ -1,4 +1,4 @@
-#ROW_WISE_SUM
+//ROW_WISE_SUM
 import java.util.Scanner;
 public class Solution {
 
