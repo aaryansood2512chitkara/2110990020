@@ -1,4 +1,4 @@
-#FINDUNIQUE
+//FINDUNIQUE
 public class Solution{  
 
     public static int findUnique(int[] arr){
