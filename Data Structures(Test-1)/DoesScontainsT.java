@@ -1,3 +1,4 @@
+//DoesScontainsT
 public class Solution {
     public static boolean checkSequence(String a, String b) {
         if(a.length()<b.length())
