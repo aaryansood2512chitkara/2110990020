@@ -1,4 +1,4 @@
-
+//ReverseEachWord
 public class Solution {
 
 	public static String reverseEachWord(String str) {
