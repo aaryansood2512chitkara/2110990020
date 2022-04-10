@@ -1,4 +1,4 @@
-
+//HighestOccuringCharacter
 public class Solution {
 
 	public static char highestOccuringChar(String str) {
