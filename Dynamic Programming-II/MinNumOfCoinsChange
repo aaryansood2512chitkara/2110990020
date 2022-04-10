@@ -1,4 +1,4 @@
-//MinNumOfCoinsChange
+//MinNumOfCoinsChanges
 package dp_av;
 import java.util.*;
 public class MinimumSubsetDifference {
