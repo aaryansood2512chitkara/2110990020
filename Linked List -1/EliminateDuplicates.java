@@ -1,3 +1,4 @@
+//EliminateDuplicates
 public class Solution {
 
 	public static LinkedListNode<Integer> removeDuplicates(LinkedListNode<Integer> head) {
