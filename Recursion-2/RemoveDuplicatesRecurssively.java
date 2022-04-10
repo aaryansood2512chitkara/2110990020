@@ -1,3 +1,4 @@
+//RemoveDuplicatesRecurssively
 public class RemoveD {
 	public static String removeConsecutiveDuplicates(String s) {
 		if(s.length()==1)
