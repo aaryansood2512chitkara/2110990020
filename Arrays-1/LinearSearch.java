@@ -1,4 +1,4 @@
-//liner search code full
+//liner search code
 public class Solution {
 
     public static int linearSearch(int arr[], int x) {
