@@ -1,4 +1,4 @@
-#PRINTLIKEWAVE
+//PRINTLIKEWAVE
 public class Solution {
 
 	public static void wavePrint(int mat[][]){
