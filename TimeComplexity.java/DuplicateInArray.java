@@ -1,3 +1,4 @@
+//DuplicateInArray
 public class Solution {
 
 	public static int findDuplicate(int[] arr) {
