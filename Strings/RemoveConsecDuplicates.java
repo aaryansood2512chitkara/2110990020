@@ -1,4 +1,4 @@
-
+//RemoveConsecDuplicates
 public class Solution {
 
 	public static String removeConsecutiveDuplicates(String str) {
