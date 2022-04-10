@@ -1,4 +1,4 @@
-
+#ARRAYINTERSECTION
 public class Solution{  
     
     public static void intersections(int arr1[], int arr2[]) {
