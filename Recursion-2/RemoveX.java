@@ -1,3 +1,4 @@
+//RemoveX
 public class RemoveX {
 	public static String removeX(String input){
 		// Write your code here
