@@ -1,3 +1,4 @@
+//CheckPalindrome
 public class solution {
 
 	public static boolean isStringPalindrome(String input) {
