@@ -1,4 +1,4 @@
-
+//SWAP ALTERNATE
 public class Solution {
     
     public static void swapAlternate(int arr[]) {
