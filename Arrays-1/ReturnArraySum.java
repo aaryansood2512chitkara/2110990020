@@ -1,3 +1,4 @@
+//RETRUN ARRAY SUM
 import java.util.Scanner;
 public class Solution {
 	
