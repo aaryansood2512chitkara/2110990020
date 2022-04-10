@@ -1,4 +1,4 @@
-
+//TRIPLET SUM
 public class Solution {
     
     public static int findTriplet(int[] arr, int x) {
