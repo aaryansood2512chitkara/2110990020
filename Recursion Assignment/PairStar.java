@@ -1,3 +1,4 @@
+//PairStar
 public class solution {
 
 	public static String addStars(String s) {
