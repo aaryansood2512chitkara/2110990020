@@ -1,3 +1,4 @@
+//CheckAB
 public class Solution {
 
 	public static boolean checkAB(String input) {
