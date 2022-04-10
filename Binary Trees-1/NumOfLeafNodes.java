@@ -1,3 +1,4 @@
+//NumOfLeafNodes
 package binarytress;
 
 import java.util.Scanner;
