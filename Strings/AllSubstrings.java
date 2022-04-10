@@ -1,4 +1,4 @@
-
+//AllSubstrings
 public class Solution {
 
 	public static void printSubstrings(String str) {
