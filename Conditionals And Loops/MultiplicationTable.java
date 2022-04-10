@@ -1,3 +1,4 @@
+//MultiplicationTable
 import java.util.Scanner;
 public class Main {
 	
