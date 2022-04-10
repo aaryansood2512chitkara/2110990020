@@ -1,4 +1,4 @@
-
+//CheckPermutation
 public class Solution {
 
 	public static boolean isPermutation(String str1, String str2) {
