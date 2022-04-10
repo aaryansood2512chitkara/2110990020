@@ -1,4 +1,4 @@
-
+//SumOfTwoArrays
 public class Solution {
 
    public static void sumOfTwoArrays(int arr1[], int arr2[], int output[]) { 
