@@ -1,3 +1,4 @@
+//FirstIndex
 public class Solution {
 
 	public static int firstIndex(int input[], int x) {
