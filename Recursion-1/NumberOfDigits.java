@@ -1,3 +1,4 @@
+//NumberOfDigits
 public class Solution {
 
 	public static int count(int n){
