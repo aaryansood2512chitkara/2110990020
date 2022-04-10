@@ -1,3 +1,4 @@
+//RatInAMaze
 package allproblems;
 
 public class RatInAMaze {
