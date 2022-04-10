@@ -1,4 +1,4 @@
-//LongestCommonSubsequence_Iterative
+//LongestCommonSubsequence_Iteratives
 package dp_av;
 
 public class LCS_Iterative {
