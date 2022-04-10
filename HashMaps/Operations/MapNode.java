@@ -1,4 +1,4 @@
-//MapNode.java
+//MapNode
 package maps;
 
 public class MapNode<K,V> {
