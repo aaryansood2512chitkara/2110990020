@@ -1,4 +1,4 @@
-//OddSquare
+//OddSquares
 import java.util.Scanner;
 public class Main {
 	
