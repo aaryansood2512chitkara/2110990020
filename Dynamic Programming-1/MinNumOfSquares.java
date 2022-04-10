@@ -1,3 +1,4 @@
+//MinNumOfSquares
 public class Solution {
 
 	public static int minCount(int n) {
