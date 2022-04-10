@@ -1,4 +1,4 @@
-
+//PAIR SUM
 public class Solution {  
 
   	public static int pairSum(int arr[], int x) {
