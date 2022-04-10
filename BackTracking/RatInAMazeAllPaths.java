@@ -1,3 +1,4 @@
+//RatInAMazeAllPaths
 package allproblems;
 
 public class PrintRatInAMaze {
