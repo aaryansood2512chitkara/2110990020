@@ -1,4 +1,4 @@
-
+//MinimumLengthWord
 public class Solution {
 	
 public static String minLengthWord(String input){
