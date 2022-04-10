@@ -1,3 +1,4 @@
+//DeleteNodeinLL
 public class Solution {
 
 	public static LinkedListNode<Integer> deleteNode(LinkedListNode<Integer> head, int pos) {
