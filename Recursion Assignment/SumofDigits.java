@@ -1,4 +1,4 @@
-
+//SumofDigits
 public class solution {
 
 	public static int sumOfDigits(int input){
