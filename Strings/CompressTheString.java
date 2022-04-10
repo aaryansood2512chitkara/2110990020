@@ -1,4 +1,4 @@
-
+//CompressTheString
 public class Solution {
 
 	public static String getCompressedString(String str) {
