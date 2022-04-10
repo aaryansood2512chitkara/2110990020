@@ -1,4 +1,4 @@
-
+//MergeTwoSortedArrayS
 public class Solution {  
 
     public static int[] merge(int arr1[], int arr2[]) {
