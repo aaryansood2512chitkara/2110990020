@@ -1,4 +1,4 @@
-
+//StringPalindrome
 public class Solution {
 
 	public static boolean isPalindrome(String str) {
