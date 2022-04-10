@@ -1,3 +1,4 @@
+//CheckNumberinArray
 public class Solution {
 	
 	public static boolean checkNumber(int input[], int x) {
