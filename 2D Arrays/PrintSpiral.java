@@ -1,4 +1,4 @@
-#PRINT SPRIAL 
+//PRINT SPRIAL 
 public class Solution {
 
 	public static void spiralPrint(int matrix[][]){
