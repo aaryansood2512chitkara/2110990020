@@ -1,3 +1,4 @@
+//TriangleNumber
 import java.util.Scanner;
 public class Solution {
 
